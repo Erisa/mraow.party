@@ -1,0 +1,5 @@
+name = "mraow-party"
+main = "src/index.ts"
+compatibility_date = "2023-11-12"
+route = { pattern = "mraow.party/", zone_name = "mraow.party" }
+workers_dev = false
